@@ -1,1 +1,5 @@
-https://github.com/imranFshamil
+1. `git add` stages changes for commit.
+2. `git commit` saves changes locally.
+3. `git clone` copies a repo; `git pull` updates it.
+4. Check `git status` and `git log` for successful pull.
+
